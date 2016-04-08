@@ -1,0 +1,9 @@
+*.o
+*.mk
+Debug/RSA.d
+*.d
+Debug/lab1
+*.project
+.cproject
+driver
+Debug/makefile
